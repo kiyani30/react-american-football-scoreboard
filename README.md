@@ -45,7 +45,7 @@ Follow these steps for completing your project.
 - Set up the state values for the Lions team score using the state hook
 
 ```js
-const [value, setValue] = useState(); // Give these better names, and decide whether you want to pass an initial score into the state hook as the initialValue
+const [Score, setValue] = useState(); // Give these better names, and decide whether you want to pass an initial score into the state hook as the initialValue
 ```
 
 - Set up the state value for the Tigers team score using a second state hook call
